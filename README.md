@@ -14,7 +14,7 @@ Optimizing sales performance ,
 Improving net sales and gross margins ,
 Managing and analyzing unorganized large-scale data .
 
-** Project Goal :**
+**Project Goal :**
 
 This project analyzes 500,000+ rows of raw sales data using Excel tools and ETL processes to:
 
@@ -23,7 +23,7 @@ Track key performance indicators (KPIs) ,
 Support data-driven decision-making ,
 Improve overall company performance .
 
-** Why This Project Matters :**
+**Why This Project Matters :**
 
 By transforming raw data into actionable insights, this project helps:
 Identify growth opportunities ,
@@ -33,12 +33,12 @@ Enable strategic planning
 
 # Project 1: Sales Analysis & Reporting #
 
-* Objective :*
+*Objective :*
 
 Develop a Customer Performance Report ,
 Compare Market Performance vs Sales Targets .
 
-* Key Achievements :*
+*Key Achievements :*
 
 Enabled effective tracking of sales performance ,
 Identified important sales trends and KPIs ,
@@ -62,7 +62,7 @@ Supported better stakeholder communication ,
 Enabled benchmarking against industry standards ,
 Provided a base for budgeting and forecasting .
 
-# 🛠️ Technical Skills :
+#  Technical Skills :
 
 ETL (Extract, Transform, Load) methodology ,
 Power Query (data cleaning & transformation) ,
