@@ -14,7 +14,7 @@ Optimizing sales performance ,
 Improving net sales and gross margins ,
 Managing and analyzing unorganized large-scale data .
 
-**Project Goal :**
+- Project Goal :
 
 This project analyzes 500,000+ rows of raw sales data using Excel tools and ETL processes to:
 
@@ -23,7 +23,7 @@ Track key performance indicators (KPIs) ,
 Support data-driven decision-making ,
 Improve overall company performance .
 
-**Why This Project Matters :**
+- Why This Project Matters :
 
 By transforming raw data into actionable insights, this project helps:
 Identify growth opportunities ,
