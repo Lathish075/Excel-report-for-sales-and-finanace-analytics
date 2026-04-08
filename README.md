@@ -33,12 +33,12 @@ Enable strategic planning
 
 # Project 1: Sales Analysis & Reporting #
 
-*Objective :*
+- Objective :
 
 Develop a Customer Performance Report ,
 Compare Market Performance vs Sales Targets .
 
-*Key Achievements :*
+- Key Achievements :
 
 Enabled effective tracking of sales performance ,
 Identified important sales trends and KPIs ,
@@ -48,14 +48,14 @@ Identified potential markets for global expansion .
 
 # Project 2: Financial Analysis & Reporting 
 
-*🎯 Objective:*
+- Objective:
 
 Created Profit & Loss (P&L) Reports by:
 Fiscal Year ,
 Monthly analysis ,
 Generated Market-wise P&L Reports .
 
-* Key Achievements :*
+- Key Achievements :
 
 Delivered clear insights into financial performance ,
 Supported better stakeholder communication ,
