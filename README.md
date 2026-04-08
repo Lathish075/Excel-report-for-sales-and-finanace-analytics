@@ -2,7 +2,7 @@
 
 Excel - Sales and Finance Analytics Project of AtliQ Hardwares
 
-** Overview **
+**Overview**
 
 AtliQ Hardwares is a leading global hardware company specializing in PCs, printers, and computer accessories. This project focuses on analyzing large-scale sales and financial data to improve business performance, decision-making, and profitability.
 
