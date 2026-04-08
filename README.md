@@ -1,4 +1,4 @@
-# Excel-report-for-sales-analytics
+# Excel-report-for-sales-and-finance-analytics
 
 Excel - Sales and Finance Analytics Project of AtliQ Hardwares
 
@@ -40,10 +40,10 @@ Compare Market Performance vs Sales Targets
 
 ✅ Key Achievements :
 
-Enabled effective tracking of sales performance
-Identified important sales trends and KPIs
-Helped optimize customer discount strategies
-Supported negotiation decisions
+Enabled effective tracking of sales performance ,
+Identified important sales trends and KPIs ,
+Helped optimize customer discount strategies ,
+Supported negotiation decisions ,
 Identified potential markets for global expansion
 
 💰 Project 2: Financial Analysis & Reporting
