@@ -10,9 +10,9 @@ AtliQ Hardwares is a leading global hardware company specializing in PCs, printe
 
 AtliQ Hardwares faces challenges in:
 
-Optimizing sales performance
-Improving net sales and gross margins
-Managing and analyzing unorganized large-scale data
+Optimizing sales performance ,
+Improving net sales and gross margins ,
+Managing and analyzing unorganized large-scale data .
 
 **🎯 Project Goal :**
 
@@ -36,7 +36,7 @@ Enable strategic planning
 *🎯 Objective :*
 
 Develop a Customer Performance Report ,
-Compare Market Performance vs Sales Targets
+Compare Market Performance vs Sales Targets .
 
 *✅ Key Achievements :*
 
@@ -44,48 +44,48 @@ Enabled effective tracking of sales performance ,
 Identified important sales trends and KPIs ,
 Helped optimize customer discount strategies ,
 Supported negotiation decisions ,
-Identified potential markets for global expansion
+Identified potential markets for global expansion .
 
 **💰 Project 2: Financial Analysis & Reporting**
 
 *🎯 Objective:*
 
 Created Profit & Loss (P&L) Reports by:
-Fiscal Year
-Monthly analysis
-Generated Market-wise P&L Reports
+Fiscal Year ,
+Monthly analysis ,
+Generated Market-wise P&L Reports .
 
 *✅ Key Achievements :*
 
-Delivered clear insights into financial performance
-Supported better stakeholder communication
-Enabled benchmarking against industry standards
-Provided a base for budgeting and forecasting
+Delivered clear insights into financial performance ,
+Supported better stakeholder communication ,
+Enabled benchmarking against industry standards ,
+Provided a base for budgeting and forecasting .
 
 **🛠️ Technical Skills :**
 
-ETL (Extract, Transform, Load) methodology
-Power Query (data cleaning & transformation)
-Data modeling using Power Pivot
-Creating date tables
-Deriving fiscal months and quarters
-Building relationships between tables
-DAX (calculated columns & measures)
+ETL (Extract, Transform, Load) methodology ,
+Power Query (data cleaning & transformation) ,
+Data modeling using Power Pivot ,
+Creating date tables ,
+Deriving fiscal months and quarters ,
+Building relationships between tables ,
+DAX (calculated columns & measures) .
 
 **🤝 Soft Skills :**
 
-Strong understanding of Sales & Finance reporting
-User-focused report design
-Performance optimization of reports
-Structured approach to report development
-Attention to detail and analytical thinking
+Strong understanding of Sales & Finance reporting ,
+User-focused report design ,
+Performance optimization of reports ,
+Structured approach to report development ,
+Attention to detail and analytical thinking .
 
 **📌 Tools Used :**
 
-Microsoft Excel
-Power Query
-Power Pivot
-DAX
+Microsoft Excel ,
+Power Query ,
+Power Pivot ,
+DAX .
 
 **Conclusion**
 
