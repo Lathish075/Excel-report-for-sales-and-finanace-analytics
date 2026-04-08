@@ -6,7 +6,7 @@ Excel - Sales and Finance Analytics Project of AtliQ Hardwares
 
 AtliQ Hardwares is a leading global hardware company specializing in PCs, printers, and computer accessories. This project focuses on analyzing large-scale sales and financial data to improve business performance, decision-making, and profitability.
 
-#Problem Statement :
+**Problem Statement :**
 
 AtliQ Hardwares faces challenges in:
 
@@ -23,7 +23,7 @@ Track key performance indicators (KPIs) ,
 Support data-driven decision-making ,
 Improve overall company performance .
 
-** 💡 Why This Project Matters : **
+**💡 Why This Project Matters :**
 
 By transforming raw data into actionable insights, this project helps:
 Identify growth opportunities ,
@@ -33,12 +33,12 @@ Enable strategic planning
 
 **📈 Project 1: Sales Analysis & Reporting**
 
-**🎯 Objective :**
+*🎯 Objective :*
 
 Develop a Customer Performance Report ,
 Compare Market Performance vs Sales Targets
 
-**✅ Key Achievements :**
+*✅ Key Achievements :*
 
 Enabled effective tracking of sales performance ,
 Identified important sales trends and KPIs ,
@@ -48,14 +48,14 @@ Identified potential markets for global expansion
 
 **💰 Project 2: Financial Analysis & Reporting**
 
-**🎯 Objective:**
+*🎯 Objective:*
 
 Created Profit & Loss (P&L) Reports by:
 Fiscal Year
 Monthly analysis
 Generated Market-wise P&L Reports
 
-**✅ Key Achievements :**
+*✅ Key Achievements :*
 
 Delivered clear insights into financial performance
 Supported better stakeholder communication
@@ -87,6 +87,6 @@ Power Query
 Power Pivot
 DAX
 
-** Conclusion **
+**Conclusion**
 
 This project demonstrates how data analytics can be used to convert raw data into valuable business insights, helping organizations like AtliQ Hardwares improve performance, profitability, and strategic decision-making
